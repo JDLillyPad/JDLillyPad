@@ -15,7 +15,7 @@ My interest in technology and national security has led me to develop a passion 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Foundations-Linux, Networking & Security      | <a href="https://google.com">Setup & Secure a Raspberry Pi</a>|
+| Foundations-Linux, Networking & Security      | <a href="https://google.com">Secure Raspberry Pi</a>|
 | Home Network & Discovery  (Coming Soon)       | <a href="https://google.com">Network Discovery & Scanning</a>|
 
 
@@ -39,5 +39,5 @@ My interest in technology and national security has led me to develop a passion 
 </div>
 
 ## Projects
-- Setup & Secure a Raspberry Pi
-- Network Discovery & Scanning
+- Secure Raspberry Pi
+- Network Discovery & Scanning (Comming Soon)
