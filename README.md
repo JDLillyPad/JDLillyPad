@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hello, I'm Dawn
+<a href="https://linkedin.com/in/dawnlilly"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**JDLillyPad/JDLillyPad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+I am a recent certificate graduate of SANS Technology Institute with a profound interest in technology and a dedication to safeguarding organizations and national security through threat detection, forensics, and response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+[Provide Objective]
+
+My interest in technology and national security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for employment as a SOC Analyst, Cybersecurity Analyst, Network Intrusion Analyst or Digital Forensics Analyst.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Setup & Secure Raspberry Pi                   | <a href="https://google.com">Detection Lab</a>|
+| Home Network & Discovery  (Coming Soon)       | <a href="https://google.com">Detection Lab</a>|
+
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-TcpDump-1679A7?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-GCIA-C5A900?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCIH-C5A900?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GSEC-C5A900?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GFACT-C5A900?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-(ISC)%C2%B2%20Candidate-006699?&style=for-the-badge&logo=ISC2&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
