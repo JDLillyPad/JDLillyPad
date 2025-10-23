@@ -15,8 +15,8 @@ My interest in technology and national security has led me to develop a passion 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setup & Secure Raspberry Pi                   | <a href="https://google.com">Detection Lab</a>|
-| Home Network & Discovery  (Coming Soon)       | <a href="https://google.com">Detection Lab</a>|
+| Foundations-Linux, Networking & Security      | <a href="https://google.com">Setup & Secure a Raspberry Pi</a>|
+| Home Network & Discovery  (Coming Soon)       | <a href="https://google.com">Network Discovery & Scanning</a>|
 
 
 ## Tools
@@ -39,5 +39,5 @@ My interest in technology and national security has led me to develop a passion 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Setup & Secure a Raspberry Pi
+- Network Discovery & Scanning
