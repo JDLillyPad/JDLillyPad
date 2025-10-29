@@ -1,17 +1,16 @@
 # Hello, I'm Dawn
 <a href="https://linkedin.com/in/dawnlilly"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/users/dawn-lilly" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-Certifications-blue" alt="Credly Certifications Badge">
+</a>
 
-[Brief Introduction]
-
-I am a recent certificate graduate of SANS Technology Institute with a profound interest in technology and a dedication to safeguarding organizations and national security through threat detection, forensics, and response.
+I am a recent certificate graduate of SANS Technology Institute with a profound interest in technology and a dedication to safeguarding organizations and national security through threat detection, forensics, and response. 
 
 ## Objective
-[Provide Objective]
 
 My interest in technology and national security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for employment as a SOC Analyst, Cybersecurity Analyst, Network Intrusion Analyst or Digital Forensics Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -36,6 +35,8 @@ My interest in technology and national security has led me to develop a passion 
 <img src="https://img.shields.io/badge/-GSEC-C5A900?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GFACT-C5A900?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-(ISC)%C2%B2%20Candidate-006699?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-IT%20Automation%20with%20Python%20Candidate-4285F4?style=for-the-badge&logo=google&logoColor=white" 
+     alt="Google IT Automation with Python Candidate" />
 </div>
 
 ## Projects
