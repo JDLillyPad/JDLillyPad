@@ -8,7 +8,7 @@ I am a recent certificate graduate of SANS Technology Institute with a profound 
 
 ## Objective
 
-My interest in technology and national security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for employment as a SOC Analyst, Cybersecurity Analyst, Network Intrusion Analyst or Digital Forensics Analyst.
+My interest in technology and national security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for employment as a SOC Analyst, Cybersecurity Analyst/ Engineer, Network Intrusion Analyst or Digital Forensics Analyst.
 
 ## Skills
 
