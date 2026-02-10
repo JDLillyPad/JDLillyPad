@@ -15,7 +15,7 @@ My interest in technology and national security has led me to develop a passion 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Foundations-Linux, Networking & Security      | <a href="https://github.com/JDLillyPad/Secure-Raspberry-Pi/blob/main/README.md">Secure Raspberry Pi</a>|
-| Home Network & Discovery  (Coming Soon)       | <a href="https://google.com">Network Discovery & Scanning</a>|
+| Home Network & Discovery  (Coming Soon)       | <a href="https://github.com/JDLillyPad/Network-Discovery-Scanning/blob/main/README.md">Network Discovery & Scanning</a>|
 
 
 ## Tools
@@ -41,4 +41,4 @@ My interest in technology and national security has led me to develop a passion 
 
 ## Projects
 - <a href="https://github.com/JDLillyPad/Secure-Raspberry-Pi/blob/main/README.md">Secure Raspberry Pi</a>
-- Network Discovery & Scanning (Comming Soon)
+- <a href="https://github.com/JDLillyPad/Network-Discovery-Scanning/blob/main/README.md">Network Discovery & Scanning</a>
